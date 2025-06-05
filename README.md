@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9623cc11-b702-4a9a-b069-27ed328aed4d)# BEV Tracker: Multi-View Motion Trajectory Mapping Tool
+# BEV Tracker: Multi-View Motion Trajectory Mapping Tool
 
 BEV Tracker is a lightweight real-time software system for accurate single-person motion trajectory mapping using multi-view Kinect cameras in indoor environments. This tool addresses challenges such as occlusion and reflection, which often lead to erroneous detections, by incorporating advanced post-processing strategies.
 ![image](https://github.com/user-attachments/assets/93a90a2b-a1e6-417f-93a5-a5221a5c8c69)
