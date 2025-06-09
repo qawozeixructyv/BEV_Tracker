@@ -17,8 +17,10 @@ BEV Tracker is a lightweight real-time software system for accurate single-perso
    ```bash
    git clone https://github.com/qawozeixructyv/BEV_Tracker.git
    cd BEV_Tracker
+   ```
 2.Install required dependencies:
    pip install -r requirements.txt
+   
 3.Set up the environment and run the system on multi-view Kinect cameras.
 
 ## Usage
