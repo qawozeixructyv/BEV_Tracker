@@ -19,14 +19,18 @@ BEV Tracker is a lightweight real-time software system for accurate single-perso
    cd BEV_Tracker
    ```
 2.Install required dependencies:
+```bash
    pip install -r requirements.txt
+```
    
 3.Set up the environment and run the system on multi-view Kinect cameras.
 
 ## Usage
 1.Start the system:
 The software can be run using the following command:
+```bash
    python bev_tracking_gui.py
+```
    
 2.Configure Kinect Cameras:
 Follow the on-screen instructions to set up multiple Kinect cameras in a synchronized master-slave configuration. Each camera’s calibration will be required to enable real-time video feeds.
